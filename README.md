@@ -12,5 +12,7 @@ So to run this pogram we required NetBeans IDE
 # 3.Quiz interface<br>
 ![image](https://user-images.githubusercontent.com/83541879/204590699-599f0242-3e26-400e-9d01-0826f4266755.png)
 
-# 4.
+# 4.Score screen<br>
+![image](https://user-images.githubusercontent.com/83541879/204592811-0d044c5c-fdb3-4e26-b8eb-fd435f188924.png)
+
 
